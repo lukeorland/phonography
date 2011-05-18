@@ -1,0 +1,1241 @@
+# Phonetic Symbols: Vowels
+- 
+  ipa number      : 301
+  kirshenbaum     : i
+  symbol name     : latin small letter i
+  timit           : 
+  tipa input 1    : i
+  tipa input 2    : i
+  unicode symbol  : i
+  usage           : close front unrounded vowel short
+  worldbet        : i
+  sampa           : i
+  xsampa          : i
+-                   
+  ipa number      : ?
+  kirshenbaum     : ?
+  symbol name     : ?
+  timit           : iy
+  tipa input 1    : "i:"
+  tipa input 2    : "i:"
+  unicode symbol  : iː
+  usage           : close front unrounded vowel long
+  worldbet        : "i:"
+  sampa           : "i:"
+  xsampa          : ?
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : 
+  usage           : nasalized high front
+  worldbet        : i~
+  sampa           : 
+  xsampa          : ?
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : 
+  usage           : 
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+
+# Phonetic Symbols: Nasals
+- 
+  ipa number      : 114
+  kirshenbaum     : m
+  symbol name     : latin small letter m
+  timit           : m
+  tipa input 1    : m
+  tipa input 2    : 
+  unicode symbol  : m
+  usage           : bilabial nasal
+  worldbet        : m
+  sampa           : m
+  xsampa          : 
+- 
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɐ
+  usage           : latin small letter turned a
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɑ
+  usage           : latin small letter alpha
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɒ
+  usage           : latin small letter turned alpha
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɓ
+  usage           : latin small letter b with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɔ
+  usage           : latin small letter open o
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɕ
+  usage           : latin small letter c with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɖ
+  usage           : latin small letter d with tail
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɗ
+  usage           : latin small letter d with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɘ
+  usage           : latin small letter reversed e
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ə
+  usage           : latin small letter schwa
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɚ
+  usage           : latin small letter schwa with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɛ
+  usage           : latin small letter open e
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɜ
+  usage           : latin small letter reversed open e
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɝ
+  usage           : latin small letter reversed open e with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɞ
+  usage           : latin small letter closed reversed open e
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɟ
+  usage           : latin small letter dotless j with stroke
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɠ
+  usage           : latin small letter g with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɡ
+  usage           : latin small letter script g
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɢ
+  usage           : latin letter small capital g
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɣ
+  usage           : latin small letter gamma
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɤ
+  usage           : latin small letter rams horn
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɥ
+  usage           : latin small letter turned h
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɦ
+  usage           : latin small letter h with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɧ
+  usage           : latin small letter heng with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɨ
+  usage           : latin small letter i with stroke
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɩ
+  usage           : latin small letter iota
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɪ
+  usage           : latin letter small capital i
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɫ
+  usage           : latin small letter l with middle tilde
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɬ
+  usage           : latin small letter l with belt
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɭ
+  usage           : latin small letter l with retroflex hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɮ
+  usage           : latin small letter lezh
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɯ
+  usage           : latin small letter turned m
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɰ
+  usage           : latin small letter turned m with long leg
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɱ
+  usage           : latin small letter m with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɲ
+  usage           : latin small letter n with left hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɳ
+  usage           : latin small letter n with retroflex hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɴ
+  usage           : latin letter small capital n
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɵ
+  usage           : latin small letter barred o
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɶ
+  usage           : latin letter small capital oe
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɷ
+  usage           : latin small letter closed omega
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɸ
+  usage           : latin small letter phi
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɹ
+  usage           : latin small letter turned r
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɺ
+  usage           : latin small letter turned r with long leg
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɻ
+  usage           : latin small letter turned r with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɼ
+  usage           : latin small letter r with long leg
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɽ
+  usage           : latin small letter r with tail
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɾ
+  usage           : latin small letter r with fishhook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ɿ
+  usage           : latin small letter reversed r with fishhook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʀ
+  usage           : latin letter small capital r
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʁ
+  usage           : latin letter small capital inverted r
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʂ
+  usage           : latin small letter s with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʃ
+  usage           : latin small letter esh
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʄ
+  usage           : latin small letter dotless j with stroke and hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʅ
+  usage           : latin small letter squat reversed esh
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʆ
+  usage           : latin small letter esh with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʇ
+  usage           : latin small letter turned t
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʈ
+  usage           : latin small letter t with retroflex hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʉ
+  usage           : latin small letter u bar
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʊ
+  usage           : latin small letter upsilon
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʋ
+  usage           : latin small letter v with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʌ
+  usage           : latin small letter turned v
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʍ
+  usage           : latin small letter turned w
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʎ
+  usage           : latin small letter turned y
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʏ
+  usage           : latin letter small capital y
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʐ
+  usage           : latin small letter z with retroflex hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʑ
+  usage           : latin small letter z with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʒ
+  usage           : latin small letter ezh
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʓ
+  usage           : latin small letter ezh with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʔ
+  usage           : latin letter glottal stop
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʕ
+  usage           : latin letter pharyngeal voiced fricative
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʖ
+  usage           : latin letter inverted glottal stop
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʗ
+  usage           : latin letter stretched c
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʘ
+  usage           : latin letter bilabial click
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʙ
+  usage           : latin letter small capital b
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʚ
+  usage           : latin small letter closed open e
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʛ
+  usage           : latin letter small capital g with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʜ
+  usage           : latin letter small capital h
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʝ
+  usage           : latin small letter j with crossed-tail
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʞ
+  usage           : latin small letter turned k
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʟ
+  usage           : latin letter small capital l
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʠ
+  usage           : latin small letter q with hook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʡ
+  usage           : latin letter glottal stop with stroke
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʢ
+  usage           : latin letter reversed glottal stop with stroke
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʣ
+  usage           : latin small letter dz digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʤ
+  usage           : latin small letter dezh digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʥ
+  usage           : latin small letter dz digraph with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʦ
+  usage           : latin small letter ts digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʧ
+  usage           : latin small letter tesh digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʨ
+  usage           : latin small letter tc digraph with curl
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʩ
+  usage           : latin small letter feng digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʪ
+  usage           : latin small letter ls digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʫ
+  usage           : latin small letter lz digraph
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʬ
+  usage           : latin small letter bilabial percussive
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʭ
+  usage           : latin small letter bidental percussive
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʮ
+  usage           : latin small letter turned h with fishhook
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : ʯ
+  usage           : latin small letter turned h with fishhook and tail
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : 
+  usage           : 
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+-                   
+  ipa number      : 
+  kirshenbaum     : 
+  symbol name     : 
+  timit           : 
+  tipa input 1    : 
+  tipa input 2    : 
+  unicode symbol  : 
+  usage           : 
+  worldbet        : 
+  sampa           : 
+  xsampa          : 
+
+# Prosody Symbols:
