@@ -1,79 +1,79 @@
-timit,tipa input 1,tipa input 2,usage,worldbet,sampa,ipa number,unicode symbol,kirshenbaum,xsampa,entity dec,unicode hex,place,manner,phonation,variety
-,i,i,close front unrounded vowel short,i,i,301,i,i,i,,,,,voiced
-iy,i:,i:,close front unrounded vowel long,i:,i:,,iː,,,,,,,voiced
-m,m,m,,,,114,m,m,m,&#109;,U+006D,bilabial,nasal,voiced
-,,,,,,115,ɱ,M,F,&#625;,U+0271,labiodental,nasal,voiced
-,,,,,,116 408,n̪,n[,n_d,&#110;​&#810;,U+006E U+032A,dental,nasal,voiced
-,,,,,,116,n,n,n,&#110;,U+006E,alveolar,nasal,voiced
-,,,,,,117,ɳ,n.,n`,&#627;,U+0273,retroflex,nasal,voiced
-,,,,,,118,ɲ,n^,J,&#626;,U+0272,palatal,nasal,voiced
-,,,,,,120,N,"n""",N\,&#628;,U+0274,uvular,nasal,voiced
-,,,,,,101,p,p,p,&#112;,U+0070,bilabial,plosive,voiceless,plain
-,,,,,,,pʰ,,p_h,,,bilabial,plosive,voiceless,aspirated
-,,,,,,,pʲ,,p' (or p_j),,,bilabial,plosive,voiceless,palatalized
-,,,,,,,pʷ,,p_w,,,bilabial,plosive,voiceless,labialized
-,,,,,,,p̚,,p_},,,bilabial,plosive,voiceless,unreleased
-,,,,,,,p̌,,p_v,,,bilabial,plosive,voiceless,voiced
-,,,,,,,pʼ,,p_>,,,bilabial,plosive,voiceless,ejective
-,,,,,,101 408,p̪	,p[,p_d,&#112;​&#810;,U+0070 U+032A,labiodental,plosive,voiceless
-,,,,,,,b,b,b,&#98;,U+0062,bilabial,plosive,voiced,plain
-,,,,,,,bʷ,,,,,bilabial,plosive,voiced,labialised
-,,,,,,,b̜ʷ,,,,,bilabial,plosive,voiced,semi-labialised
-,,,,,,,b̹ʷ,,,,,bilabial,plosive,voiced,strongly labialised
-,,,,,,,bʲ,,,,,bilabial,plosive,voiced,palatalised
-,,,,,,,bʱ,,,,,bilabial,plosive,voiced,breathy voiced
-,,,,,,102 408,b̪,b[,b_d,&#98;​&#810;,U+0062 U+032A,labiodental,plosive,voiced
-,,,,,,103 408,t̪,t[,t_d,&#116;​&#810;,U+0074 U+032A,dental,plosive,voiceless,plain
-,,,,,,,t̪ʰ,,,,,dental,plosive,voiceless,aspirated
-,,,,,,,t̪ʲ,,,,,dental,plosive,voiceless,palatalized
-,,,,,,,t̪ʷ,,,,,dental,plosive,voiceless,labialized
-,,,,,,,t̪̚,,,,,dental,plosive,voiceless,unreleased
-,,,,,,,t̪ʼ,,,,,dental,plosive,voiceless,ejective
-,,,,,,,t̪ˤ,,,,,dental,plosive,voiceless,pharyngeal
-,,,,,,104 408,d̪,,,&#100;​&#810;,U+0064 U+032A,dental,plosive,voiced
-,,,,,,103,t,t,t,&#116;,U+0074,alveolar,plosive,voiceless
-,,,,,,,t,,,,,alveolar,plosive,voiceless,tenuis
-,,,,,,,tʰ,,,,,alveolar,plosive,voiceless,aspirated t
-,,,,,,,tʲ,,,,,alveolar,plosive,voiceless,palatalized
-,,,,,,,tʷ,,,,,alveolar,plosive,voiceless,labialized
-,,,,,,,ⁿt,,,,,alveolar,plosive,voiceless,prenasalized
-,,,,,,,tˤ,,,,,alveolar,plosive,voiceless,pharyngealized
-,,,,,,,t̚,,,,,alveolar,plosive,voiceless,unreleased
-,,,,,,,tʼ,,,,,alveolar,plosive,voiceless,ejective
-,,,,,,103,d,d,d,&#100;,U+0064,alveolar,plosive,voiced,modal
-,,,,,,,dʱ or d̤,,,,,alveolar,plosive,voiced,breathy voice or murmured
-,,,,,,,dʲ,,,,,alveolar,plosive,voiced,palatalized
-,,,,,,,dʷ,,,,,alveolar,plosive,voiced,labialized
-,,,,,,,dˤ,,,,,alveolar,plosive,voiced,pharyngialized
-,,,,,,,d̚,,,,,alveolar,plosive,voiced,unreleased
-,,,,,,,d̥,,,,,alveolar,plosive,voiced,voiceless or slack voice
-,,,,,,,d̬,,,,,alveolar,plosive,voiced,stiff voice
-,,,,,,,d̺,,,,,alveolar,plosive,voiced,apical
-,,,,,,,d̻,,,,,alveolar,plosive,voiced,laminal
-,,,,,,,d̪,,,,,alveolar,plosive,voiced,dental or denti-alveolar
-,,,,,,,d̟ or d̪͆,,,,,alveolar,plosive,voiced,interdental
-,,,,,,,d̠,,,,,alveolar,plosive,voiced,postalveolar
-,,,,,,105,ʈ,t.,t`,&#648;,U+0288,retroflex ,plosive,voiceless
-,,,,,,106,ɖ,d.,d`,&#598;,U+0256,retroflex,plosive,voiced
-,,,,,,107,c,c,c,&#99;,U+0063,palatal,plosive,voiceless
-,,,,,,108,ɟ,J,J\,&#607;,U+025F,palatal,plosive,voiced
-,,,,,,109,k,k,k,&#107;,U+006B,velar ,plosive,voiceless,plain
-,,,,,,,kʰ,,,,,velar,plosive,voiceless,aspirated
-,,,,,,,kʲ,,,,,velar,plosive,voiceless,palatalized
-,,,,,,,kʷ,,,,,velar,plosive,voiceless,labialized
-,,,,,,,k˺,,,,,velar,plosive,voiceless,unreleased
-,,,,,,,k̬,,,,,velar,plosive,voiceless,voiced
-,,,,,,,kʼ,,,,,velar,plosive,voiceless,ejective
-,,,,,,110,g,g,g,&#609;,U+0261,velar,plosive,voiced,plain
-,,,,,,,ɡʱ or ɡ̈,,,,,velar,plosive,voiced,breathy voiced or murmured
-,,,,,,,ɡʲ,,,,,velar,plosive,voiced,palatalized
-,,,,,,,ɡʷ,,,,,velar,plosive,voiced,labialized
-,,,,,,,ɡ̚,,,,,velar,plosive,voiced,unreleased
-,,,,,,,ɡ̊,,,,,velar,plosive,voiced,voiceless or slack voice
-,,,,,,111,q,q,q,&#113;,U+0071,uvular ,plosive,voiceless
-,,,,,,112,G,G,G\,&#610;,U+0262,uvular,plosive,voiced
-,,,,,,173,ʡ,,>\,&#673;,U+02A1,epiglottal,plosive
-,,,,,,113,ʔ,?,?,&#660;,U+0294,glottal,stop
+timit,tipa input 1,tipa input 2,usage,arpabet,worldbet,sampa,ipa number,unicode symbol,kirshenbaum,xsampa,entity dec,unicode hex,place,manner,phonation,variety
+,i,i,close front unrounded vowel short,IY,i,i,301,i,i,i,,,,,voiced
+iy,i:,i:,close front unrounded vowel long,,i:,i:,,iː,,,,,,,voiced
+m,m,m,,M,,,114,m,m,m,&#109;,U+006D,bilabial,nasal,voiced
+,,,,,,,115,ɱ,M,F,&#625;,U+0271,labiodental,nasal,voiced
+,,,,,,,116 408,n̪,n[,n_d,&#110;​&#810;,U+006E U+032A,dental,nasal,voiced
+,,,,,,,116,n,n,n,&#110;,U+006E,alveolar,nasal,voiced
+,,,,,,,117,ɳ,n.,n`,&#627;,U+0273,retroflex,nasal,voiced
+,,,,,,,118,ɲ,n^,J,&#626;,U+0272,palatal,nasal,voiced
+,,,,,,,120,N,"n""",N\,&#628;,U+0274,uvular,nasal,voiced
+,,,,,,,101,p,p,p,&#112;,U+0070,bilabial,plosive,voiceless,plain
+,,,,,,,,pʰ,,p_h,,,bilabial,plosive,voiceless,aspirated
+,,,,,,,,pʲ,,p' (or p_j),,,bilabial,plosive,voiceless,palatalized
+,,,,,,,,pʷ,,p_w,,,bilabial,plosive,voiceless,labialized
+,,,,,,,,p̚,,p_},,,bilabial,plosive,voiceless,unreleased
+,,,,,,,,p̌,,p_v,,,bilabial,plosive,voiceless,voiced
+,,,,,,,,pʼ,,p_>,,,bilabial,plosive,voiceless,ejective
+,,,,,,,101 408,p̪	,p[,p_d,&#112;​&#810;,U+0070 U+032A,labiodental,plosive,voiceless
+,,,,,,,,b,b,b,&#98;,U+0062,bilabial,plosive,voiced,plain
+,,,,,,,,bʷ,,,,,bilabial,plosive,voiced,labialised
+,,,,,,,,b̜ʷ,,,,,bilabial,plosive,voiced,semi-labialised
+,,,,,,,,b̹ʷ,,,,,bilabial,plosive,voiced,strongly labialised
+,,,,,,,,bʲ,,,,,bilabial,plosive,voiced,palatalised
+,,,,,,,,bʱ,,,,,bilabial,plosive,voiced,breathy voiced
+,,,,,,,102 408,b̪,b[,b_d,&#98;​&#810;,U+0062 U+032A,labiodental,plosive,voiced
+,,,,,,,103 408,t̪,t[,t_d,&#116;​&#810;,U+0074 U+032A,dental,plosive,voiceless,plain
+,,,,,,,,t̪ʰ,,,,,dental,plosive,voiceless,aspirated
+,,,,,,,,t̪ʲ,,,,,dental,plosive,voiceless,palatalized
+,,,,,,,,t̪ʷ,,,,,dental,plosive,voiceless,labialized
+,,,,,,,,t̪̚,,,,,dental,plosive,voiceless,unreleased
+,,,,,,,,t̪ʼ,,,,,dental,plosive,voiceless,ejective
+,,,,,,,,t̪ˤ,,,,,dental,plosive,voiceless,pharyngeal
+,,,,,,,104 408,d̪,,,&#100;​&#810;,U+0064 U+032A,dental,plosive,voiced
+,,,,,,,103,t,t,t,&#116;,U+0074,alveolar,plosive,voiceless
+,,,,,,,,t,,,,,alveolar,plosive,voiceless,tenuis
+,,,,,,,,tʰ,,,,,alveolar,plosive,voiceless,aspirated t
+,,,,,,,,tʲ,,,,,alveolar,plosive,voiceless,palatalized
+,,,,,,,,tʷ,,,,,alveolar,plosive,voiceless,labialized
+,,,,,,,,ⁿt,,,,,alveolar,plosive,voiceless,prenasalized
+,,,,,,,,tˤ,,,,,alveolar,plosive,voiceless,pharyngealized
+,,,,,,,,t̚,,,,,alveolar,plosive,voiceless,unreleased
+,,,,,,,,tʼ,,,,,alveolar,plosive,voiceless,ejective
+,,,,,,,103,d,d,d,&#100;,U+0064,alveolar,plosive,voiced,modal
+,,,,,,,,dʱ or d̤,,,,,alveolar,plosive,voiced,breathy voice or murmured
+,,,,,,,,dʲ,,,,,alveolar,plosive,voiced,palatalized
+,,,,,,,,dʷ,,,,,alveolar,plosive,voiced,labialized
+,,,,,,,,dˤ,,,,,alveolar,plosive,voiced,pharyngialized
+,,,,,,,,d̚,,,,,alveolar,plosive,voiced,unreleased
+,,,,,,,,d̥,,,,,alveolar,plosive,voiced,voiceless or slack voice
+,,,,,,,,d̬,,,,,alveolar,plosive,voiced,stiff voice
+,,,,,,,,d̺,,,,,alveolar,plosive,voiced,apical
+,,,,,,,,d̻,,,,,alveolar,plosive,voiced,laminal
+,,,,,,,,d̪,,,,,alveolar,plosive,voiced,dental or denti-alveolar
+,,,,,,,,d̟ or d̪͆,,,,,alveolar,plosive,voiced,interdental
+,,,,,,,,d̠,,,,,alveolar,plosive,voiced,postalveolar
+,,,,,,,105,ʈ,t.,t`,&#648;,U+0288,retroflex ,plosive,voiceless
+,,,,,,,106,ɖ,d.,d`,&#598;,U+0256,retroflex,plosive,voiced
+,,,,,,,107,c,c,c,&#99;,U+0063,palatal,plosive,voiceless
+,,,,,,,108,ɟ,J,J\,&#607;,U+025F,palatal,plosive,voiced
+,,,,,,,109,k,k,k,&#107;,U+006B,velar ,plosive,voiceless,plain
+,,,,,,,,kʰ,,,,,velar,plosive,voiceless,aspirated
+,,,,,,,,kʲ,,,,,velar,plosive,voiceless,palatalized
+,,,,,,,,kʷ,,,,,velar,plosive,voiceless,labialized
+,,,,,,,,k˺,,,,,velar,plosive,voiceless,unreleased
+,,,,,,,,k̬,,,,,velar,plosive,voiceless,voiced
+,,,,,,,,kʼ,,,,,velar,plosive,voiceless,ejective
+,,,,,,,110,g,g,g,&#609;,U+0261,velar,plosive,voiced,plain
+,,,,,,,,ɡʱ or ɡ̈,,,,,velar,plosive,voiced,breathy voiced or murmured
+,,,,,,,,ɡʲ,,,,,velar,plosive,voiced,palatalized
+,,,,,,,,ɡʷ,,,,,velar,plosive,voiced,labialized
+,,,,,,,,ɡ̚,,,,,velar,plosive,voiced,unreleased
+,,,,,,,,ɡ̊,,,,,velar,plosive,voiced,voiceless or slack voice
+,,,,,,,111,q,q,q,&#113;,U+0071,uvular ,plosive,voiceless
+,,,,,,,112,G,G,G\,&#610;,U+0262,uvular,plosive,voiced
+,,,,,,,173,ʡ,,>\,&#673;,U+02A1,epiglottal,plosive
+,,,,,,,113,ʔ,?,?,&#660;,U+0294,glottal,stop
 
 
 
@@ -97,4 +97,4 @@ m,m,m,,,,114,m,m,m,&#109;,U+006D,bilabial,nasal,voiced
 
 
 
-,,,,,,136,ʂ,s.,s`,&#642;,U+0282,retroflex,fricative,voiceless
+,,,,,,,136,ʂ,s.,s`,&#642;,U+0282,retroflex,fricative,voiceless
