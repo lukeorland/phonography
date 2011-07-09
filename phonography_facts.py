@@ -1,11 +1,22 @@
 # encoding: utf-8
+from __future__ import unicode_literals
+from __future__ import print_function
 import csv
+import sys
+import unicodedata
+
+filename = 'phonography_lib.csv'
+
+if sys.version < '3': 
+    infile = open(filename, 'rb')
+else:
+    infile = open(filename, 'r', newline='', encoding='utf8')
 
 dataMaps = []
-with open('phonography_lib.csv', 'rb') as f:
-    reader = csv.DictReader(f, delimiter=',', quoting=csv.QUOTE_NONE)
+with infile as csvfile:
+    reader = csv.DictReader(csvfile, delimiter=str(','), quoting=csv.QUOTE_NONE)
     for row in reader:
-        # print row
+        #print(row)
         dataMaps.append(row)
 
 
@@ -19,9 +30,9 @@ def convert_format(input_value, input_type_key, output_type_key):
     """
     result = None
     for entry in dataMaps:
-        if entry.has_key(input_type_key):
+        if input_type_key in entry:
             if entry[input_type_key] == input_value:
-                if entry.has_key(output_type_key):
+                if output_type_key in entry:
                     result = entry[output_type_key]
     return result
 
