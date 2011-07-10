@@ -1,4 +1,4 @@
-timit,tipa input 1,tipa input 2,usage,arpabet,worldbet,sampa,ipa number,unicode symbol,kirshenbaum,xsampa,entity dec,unicode hex,place,manner,phonation,variety,mrpa,edin,alvey
+timit,tipa input 1,tipa input 2,usage,arpabet,worldbet,sampa,ipa number,unicode symbol,kirshenbaum,xsampa,entity dec,unicode hex,place,manner,phonation,variety,mrpa,edin,alvey,english gloss
 ,i,i,close front unrounded vowel short,iy,i,i,301,i,i,i,,,,,voiced,,ii,ee,i 
 iy,i:,i:,close front unrounded vowel long,,i:,i:,,iː,,,,,,,voiced
 m,m,m,,m,,,114,m,m,m,&#109;,U+006D,bilabial,nasal,voiced,,m,m,m
